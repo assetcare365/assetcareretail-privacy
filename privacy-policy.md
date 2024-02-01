@@ -1,4 +1,5 @@
 Privacy Policy
+------------------
 Effective Date: 23/01/2023
 Welcome to Asset Care. This Privacy Policy outlines how Asset Care ("we," "us," or "our") collects, uses, discloses, and protects your information. By using our services, you agree to the terms of this Privacy Policy.
 1. Information We Collect:
